@@ -42,7 +42,7 @@ btndelete.addEventListener('click',function(){
             <div class="item">
                     <hr>
                     <p>標題：${item.title}</p>
-                    <p>時間：${item.date} ${item.tinme}</p>
+                    <p>時間：${item.date} ${item.time}</p>
                     <p>內容：${item.content}</p>
             </div>
         `
